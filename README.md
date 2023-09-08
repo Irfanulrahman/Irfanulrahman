@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Irfanul rahman</h1>
+<h1 align="center">Hi 👋, I'm Irfanul rahman </h1>
 <h3 align="center">let's connect to future</h3>
+<h5> on a mission to build and code robots that push the boundaries of what's possible. Let's do together .</h5>
 
 <p align="left"> <a href="https://twitter.com/irfanulrah" target="blank"><img src="https://img.shields.io/twitter/follow/irfanulrah?logo=twitter&style=for-the-badge" alt="irfanulrah" /></a> </p>
 
