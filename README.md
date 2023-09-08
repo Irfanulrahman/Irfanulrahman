@@ -1,31 +1,22 @@
- Hi there 👋
+<h1 align="center">Hi 👋, I'm Irfanul rahman</h1>
+<h3 align="center">let's connect to future</h3>
 
+<p align="left"> <a href="https://twitter.com/irfanulrah" target="blank"><img src="https://img.shields.io/twitter/follow/irfanulrah?logo=twitter&style=for-the-badge" alt="irfanulrah" /></a> </p>
 
- an aspiring tech wizard passionate about all things robotics, artificial intelligence, and the endless possibilities they offer.
+- 💬 Ask me about **Robotics**
 
-- Robotics Enthusiast: I'm on a mission to build and code robots that push the boundaries of what's possible. From autonomous drones to cutting-edge robotics, you'll find my projects here.
+- 📫 How to reach me **irfanulrahman2001@gmail.com**
 
-- AI Explorer: Deep learning, machine vision, and AI algorithms are my playground. I'm constantly tinkering with code to make machines smarter.
+- ⚡ Fun fact **I'm better while speaking about something**
 
-- Open Source Advocate: I believe in the power of collaboration. You'll find open-source contributions that aim to make the world a better, more tech-driven place.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/irfanulrah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irfanulrah" height="30" width="40" /></a>
+<a href="https://fb.com/irfan.irfanulrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irfan.irfanulrahman" height="30" width="40" /></a>
+<a href="https://instagram.com/irfanul_rahman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irfanul_rahman_" height="30" width="40" /></a>
+</p>
 
-- Innovator: I'm not just about tech; I'm about innovative solutions. My repositories showcase my experiments, prototypes, and projects aimed at solving real-world problems.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-- Join My Journey: Let's connect, collaborate, and learn from each other. Whether you're a fellow developer, a curious explorer, or someone interested in the future of tech, I invite you to join me on this exciting adventure.
-
-- Connect with Me: Feel free to explore my repositories, contribute to my projects, or drop me a message. Together, we can code the future!
-
-
-<!--
-**Irfanulrahman/Irfanulrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanulrahman&show_icons=true&locale=en&layout=compact" alt="irfanulrahman" /></p>
